@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "L H"
+title                    : "LH"
 title_separator          : "-"
-subtitle                 : "A quick introduction" # site tagline that appears below site title in masthead
+subtitle                 : "A short intro" # site tagline that appears below site title in masthead
 name                     : "Leonardo Hernandez"
 description              : "Data Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
