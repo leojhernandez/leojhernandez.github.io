@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Wheres the image?"
 permalink: /about/
 header:
-  images: "/images/bridge.jpeg"
+  images: "/images/photo_ig.png"
 ---
 
-TESTING 
+TESTING
