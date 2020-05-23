@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leonardo Hernandez"
+title                    : "L Hernandez"
 title_separator          : "-"
 subtitle                 : "A short intro" # site tagline that appears below site title in masthead
 name                     : "Leonardo Hernandez"
-description              : "Data Portfolio"
+description              : "Data Analysis Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Leonardo Hernandez"
   avatar           : "/images/photo_ig.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Portfolio"
+  bio              : "A guy that enjoys working with messy data"
   location         : "New York, NY"
   email            : "leo.jhernandez@gmail.com`"
   links:
