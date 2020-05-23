@@ -6,8 +6,8 @@ header:
   image: "/images/bridge.jpeg"
 excerpt: "STA 3155 Regression and Forecasting Models for Business Applications"
 ---
+
 # What is correlation & linear regression?
-### By Leonardo Hernandez
 ## Dataset: Cost of Living
 
 When it comes learning correlation and linear regression, it is important to discern ... correlation and association.
@@ -22,3 +22,8 @@ Python code block
 ```Python
     import pandas as pd
 ````
+
+R
+```r
+cost <- read.table('Cost_of_Living_2013.txt', sep='\t', header=T)
+```
