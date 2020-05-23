@@ -4,15 +4,13 @@ date: 2020-05-22
 tags: [correlation, linear regression, linear model]
 header:
   image: "/images/bridge.jpeg"
-excerpt: "A quick note about corr and linear reg"
+excerpt: "STA 3155 Regression and Forecasting Models for Business Applications"
 ---
-# h1 heading
+# What is correlation & linear regression?
+### By Leonardo Hernandez
+## Dataset: Cost of Living
 
-## h2 heading
-
-### h3 heading
-
-Basic text
+When it comes learning correlation and linear regression, it is important to discern ... correlation and association.
 
 and here's some *italic*
 
