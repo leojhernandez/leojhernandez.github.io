@@ -1,9 +1,9 @@
 ---
 title: "Correlation & Linear Regression"
 date: 2020-05-22
-tags: [correlation, linear regression, linear]
-<!-- header:
-  image: "/images/bridge.jpeg" -->
+tags: [correlation, linear regression, linear model]
+header:
+  image: "/images/bridge.jpeg"
 excerpt: "A quick note about corr and linear reg"
 ---
 # h1 heading
