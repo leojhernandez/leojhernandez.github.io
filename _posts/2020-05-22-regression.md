@@ -1,10 +1,10 @@
 ---
-title: "Regression TESTING"
+title: "Correlation & Linear Regression"
 date: 2020-05-22
-tags: [data, regression]
-header:
-  image: "/images/bridge.jpeg"
-excerpt: "Testing post"
+tags: [correlation, linear regression, linear]
+<!-- header:
+  image: "/images/bridge.jpeg" -->
+excerpt: "A quick note about corr and linear reg"
 ---
 # h1 heading
 
