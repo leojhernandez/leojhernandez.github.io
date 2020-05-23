@@ -82,7 +82,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/in/leojhernandez/"
 
 # Analytics
 analytics:
@@ -109,9 +108,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+       url: "https://www.linkedin.com/in/leojhernandez/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leojhernandez"
